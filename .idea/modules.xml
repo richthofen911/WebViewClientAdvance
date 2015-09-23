@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WebviewCookie.iml" filepath="$PROJECT_DIR$/WebviewCookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebViewClientAdvance.iml" filepath="$PROJECT_DIR$/WebViewClientAdvance.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
